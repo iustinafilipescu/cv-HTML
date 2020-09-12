@@ -1,0 +1,25 @@
+body{
+  background-color: lavender;
+  font-family:sans-serif;
+}
+h1{
+  color: BlueViolet;
+}
+h3{
+  color: MediumPurple;
+  text-align: center;
+}
+hr{
+  background-color: lavender;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+
+}
+
+img:hover{
+  border: 5px solid BlueViolet;
+
+}
